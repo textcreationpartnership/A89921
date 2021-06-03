@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Neutrality condemned, by declaring the reasons vvhy the deputy-lieutenants, intrusted by the Parliament for Cheshire, cannot agree to the treaty of pacification made by some of that county: at Bunbery, December, 23. 1642. And may serve to prevent the like in other counties.</title>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89921</idno><idno type="EEBO-CITATION">99859551</idno>
+  <idno type="VID">111640</idno>
+  <idno type="EEBO-PROQUEST">2248517444</idno>
+  
+            <idno type="STC">Wing N500</idno>
+            <idno type="STC">Thomason E244_41</idno>
+            <idno type="STC">ESTC R13798</idno>
+            <idno type="PROQUEST">99859551</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859551e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111640)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E244[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Neutrality condemned, by declaring the reasons vvhy the deputy-lieutenants, intrusted by the Parliament for Cheshire, cannot agree to the treaty of pacification made by some of that county: at Bunbery, December, 23. 1642. And may serve to prevent the like in other counties.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton, and are to be sold at his shop in Popes-Head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>December, 6. 1642. [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "Jan. 6. 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Cheshire (England) --  History, Military --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111640:1"/>
+            <head>Neutrality condemned, by declaring the REASONS Why the Deputy-Lieutenants, intrusted by the Par<g ref="char:EOLhyphen"/>liament for <hi>Cheshire,</hi> cannot agree to the Treaty of Pacification made by some of that County: At <hi>Bunbery, December,</hi> 23. 1642.</head>
+            <head type="sub">And may serve to prevent the like in other Counties.</head>
+            <div type="part">
+               <epigraph>
+                  <q>AN agreement made for a pacification, and setling the peace of the said County.</q>
+               </epigraph>
+               <head>Reason.</head>
+               <p>Agreements and pacifications amongst men, are not alwayes the Caracters of a good cause, nor inseparably incident to good intentions, no more then externall peace is an infal<g ref="char:EOLhyphen"/>lible marke of the truest Church; Doe we not finde <hi>Abraham</hi> and <hi>Lot, Paul</hi> and <hi>Barnabas</hi> contending, and divisions 'twixt the nearest relations, occasioned even by the Prince and Gospell of peace, when in the meane time we see <hi>Simeon</hi> and <hi>Levi, Fratres in malo,</hi> the Ru<g ref="char:EOLhyphen"/>lers taking Councell, <hi>Sanballat</hi> and <hi>Tobiah</hi> conspiring together, and the Jews unanimously crying out, <hi>Crucifige;</hi> and all against our Saviour and his living Temples: Peace therefore in it selfe is like riches, and other goods of Gods left hand, which are neither in themselves good nor bad, nor to be absolutely desired or refused, but are <hi>prout est utentis animus.</hi>
+               </p>
+               <list>
+                  <item>Sic pacem Poscimus. omnes
+<list>
+                        <item>
+                           <hi>First pure, then peaceable.</hi> James 3.17.</item>
+                        <item>
+                           <hi>Righteousnesse and Peace,</hi> Psal. 85.10. <hi>Poscimus.</hi>
+                        </item>
+                        <item>
+                           <hi>Words of Peace and Truth.</hi> Isa. 39.8.</item>
+                        <item>
+                           <hi>Love the Truth and Peace.</hi> Zach. 8.19. </item>
+                        <item>
+                           <hi>A peaceable life in all godlinesse.</hi> 1 Tim. 2.2. </item>
+                     </list>
+                  </item>
+                  <item>Sic pacem Pellimus. omnes
+<list>
+                        <item>
+                           <hi>By peace he shall destroy many.</hi> Dan. 8.25.</item>
+                        <item>
+                           <hi>The blood of war in peace.</hi> 1 King. 2.5. </item>
+                        <item>Pax hominis sine pace Numinis.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>Therefore truth must give Law to peace, and heaven to earth, this being in grace as well as nature, subservient to the motions and directions of that: And though there will ever some be found, who by their malice and subtle insinuations, endeavour to intercept those celestiall influences: yet what doe they but <hi>alatrare lunam?</hi> For righteousnesse will still looke downe from heaven, <hi>Et peraget cursus surda Diana suos.</hi>
+               </p>
+               <pb n="2" facs="tcp:111640:2"/>
+               <p>But that Agreement especially is the furthest off from being the badge, either of a good cause or meaning, which aimes at, and produceth a Neutrality: It is observable, that things of the <hi>Neuter Gender</hi> are without life; and where either side is for God, it argues small life in him, that is, at that time, neither hot nor cold, neither for God nor Baall; Batts are Beasts when they are upon the earth, and Birds when in the ayre, but these men are altogether unre<g ref="char:EOLhyphen"/>solved how to name themselves; in a time of Peace, they can be content, like the Plannet <hi>Mercury,</hi> ever to follow the motion of that Starre to which they are conjoyned, but in dayes of triall this <hi>Proteus</hi> cannot hide himselfe under the variety of shapes, and therefore as much as a created power can doe, he strives to annihilate his former being, and could be content to be an Hermophradite, or some Monster of men, but that even in these there is a prevailing forme. Whilsts he lives he strives to turne things necessary to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and 'twixt things dia<g ref="char:EOLhyphen"/>metrically opposed, to phancie, that there are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; he tacitely pleades for the <hi>Chimaera</hi> of Purgatory by his indifferencie, more then all the Arguments of the <hi>Sorbonists,</hi> and therefore when he dies, there is some hope the Pope will Cannonize his soule for the good hee hath done to the Catholike Cause, in that wherein it hath most neede of helpe, and that the Con<g ref="char:EOLhyphen"/>clave will order that his body may remaine like <hi>Mahomets</hi> tombe at <hi>Mecha,</hi> or like that of <hi>Erasmus,</hi> all <hi>in medio.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <epigraph>
+                  <q>It is Agreed.</q>
+               </epigraph>
+               <head>REASON.</head>
+               <p>For whom is it so agreed? themselves onely that subscribed? themselves with the rest of the Commissioners and Deputy Lieutenants? the Countrey? the neighbour Countries ready to imbrace an Association? or the Parliament? If for themselves, their conclusions are but personall and oblige no further: if for themselves with the rest of the Commissioners and Deputy Liuetenants, where and when was that authority deligated from all or any of those absent to them that were present? or if so, by what power was it so deligated? Instruments of all sorts, animate, as well as inanimate, having either no motion, or to none effect, with<g ref="char:EOLhyphen"/>out the concurrence or impuision of their principall agent: if for the Country, where did they authorize them, especially that part of it inconsulted withall? Or when did the Countrey give either an expresse or implicite consent, that these alone, either to that, or to any other purpose should be their body representative? If for the neighbour Counties, certainely without their privity, and if no privity, no obligation; for who can imagine them so stupid as to consent to that, which is utterly destructive to their designes, especially <hi>Manchester</hi> (which hath of late better merited that name, then it did by resisting (long since) the <hi>Danes</hi>) will, without the great mercy of GOD, by this meanes be exposed to the rapine and vio<g ref="char:EOLhyphen"/>lence of her implacable <hi>Nimrods.</hi> If for the Parliament, their Commission, or some Order from thence will shew it: but it is very probable that they had thence, neither any such Commission nor Order; for that. 1. None of their Members in that County were parties to this agreement. 2. The Parliament hath not used to tolerate any compounding with Delinquents, and men by publike Vote excluded from them. 3. By the Declaration of both Houses, of the 4. of <hi>October</hi> last, they have declared their resolution against such a Neutrality, in the case of <hi>Yorkeshire,</hi> which had more colour in it, for that the Lord <hi>Fairefax</hi> (since made Lord Generall in the North of the Parliaments forces, under his Excellencie, the Earle of <hi>Essex</hi>) and Master <hi>Bellasis,</hi> the two Knights for the Shire, were the maine parties to that agreement. 4. The secret plot of this, was, to prevent the necessary Association of the neighbour Counties, which the promoters here of, knew to be in agitation, by vertue of the authority of both Houses, and if effected, would soone have defaced the glory of their Re<g ref="char:EOLhyphen"/>giments. 5. This doth what in it lies to suspend the execution of the Ordinance of the <hi>Mili<g ref="char:EOLhyphen"/>tia,</hi>
+                  <pb n="3" facs="tcp:111640:2"/>and the raising of moneyes upon the Propofitions, declared by both Houses to be ac<g ref="char:EOLhyphen"/>cording to Law, and very necessary at this time for the preservation of the peace and safety of the Kingdome, and to be put in execution in that County. 6. Both the said Houses by their Declaration of the 4. of <hi>December</hi> last, have authorised divers persons to receive and collect monies, plate, and horses from severall persons within the City of <hi>London,</hi> for the se<g ref="char:EOLhyphen"/>curing and relieving of that County, against all power that is, or shall be raised therein, against the Parliament and proceedings thereof, upon which, severall summes are already received. And 7. Commissions have been lately granted to Sir <hi>William Brereton,</hi> one of their Mem<g ref="char:EOLhyphen"/>bers, and to divers officers, subordinate to him, for their accesse to that County. These are so many judgements of the supreame Court of judicature, against this ungrounded and un<g ref="char:EOLhyphen"/>justifiable Neutrality.</p>
+               <p>But by what meanes is it so agreed? The well-affected of this County to the proceedings of Parliament, being jealous of the safety of their Religion, Lawes and Liberties, and withall weary of their Taskmasters, resolved to get up and be doing, and to couch no longer like <hi>Issachar,</hi> betwixt their burdens; In number and strength they presently exceed their adver<g ref="char:EOLhyphen"/>saries, which makes their opposers first flie for refuge to <hi>Chester,</hi> and being there, for policy, to the Bishops Palace, at the desire no doubt of the Popish party, who conceited that what came from thence was <hi>è Cathedra,</hi> and not capable of errour or miscarriage. But this <hi>Sana<g ref="char:EOLhyphen"/>drim</hi> being there convened, at first conclude, that in regard the government of the City was not in a safe hand for their designe, a new Governour must be placed, paramount the Maior, with liberty onely reserved to him to carry his white staffe, the Sword being to sleepe a while behinde the Ephod: and had not the Maior been both couragious and religious, doubt<g ref="char:EOLhyphen"/>lesse there had been the revolution of that Platonicke yeare, wherein even the Magisteriall staffe of that City was extorted from the hands of their chiefe Magistrate, and himselfe a while made subject to a Subject. But what thinkes the <hi>Recorder</hi> (active also at this meeting) will by this meanes become of the City Charter? I beleeve his zeale to promote the de<g ref="char:EOLhyphen"/>signe, and by that, himselfe, for the present made him become <hi>Obliviscor,</hi> or else they perswa<g ref="char:EOLhyphen"/>ded him, they could as easily procure a new Charter, as they could a Letter from his Maje<g ref="char:EOLhyphen"/>sty to declare his resolution of not sending Forces into that Countrey. No sooner had the new Governour taken possession of his place, but some of the people wondring to see another Sun in their Meridian, were afraid it might portend some fatality to their famous City, which their <hi>Recorder</hi> once told them was more ancient then the Moone: Others more astrono<g ref="char:EOLhyphen"/>micall, informe them, its but a Parelius, a Comet, which would soon vanish: but such as li<g ref="char:EOLhyphen"/>ved within the droppings of the Cathedrall, admired to see something appeare which they had so long expected from the East, and they adore this rising Sun. The people being thus devided, occasion is given (for prevention of uproares) to call another Counsell, at which there is a new apparition, <hi>Dux foemina facti,</hi> The Lady <hi>Cholmeley</hi> is the chiefe of the Coun<g ref="char:EOLhyphen"/>sell, expecting perhaps, now the Queenes Standard and Army are approaching, by her acti<g ref="char:EOLhyphen"/>vity, to merit a Commanders place abroad, as she hath a long time done at home: at last it is concluded, that all Forces should be called in, that could be procured to assist the Array, and then (untill time had made them more able) a tender of peace should be made to some of the most moderate Gentlemen for the <hi>Militia,</hi> which after being done, produced these follow<g ref="char:EOLhyphen"/>ing Articles, under whose Olive branches, I feare by searching, will be found to lurk some<g ref="char:EOLhyphen"/>what of dangerons consequence.</p>
+            </div>
+            <div n="1" type="part">
+               <epigraph>
+                  <q>
+                     <p>ARTICLE 1.</p>
+                     <p>THat there be an absolute cessation of Armes from henceforth within this County, and no Armes to be taken up to offend one another, but by the consent of the King and both Houses of Parliament, unlesse it be to resist Forces brought into the County.</p>
+                  </q>
+               </epigraph>
+               <head>REASON 1.</head>
+               <p>This is to prescribe rules to them from whom you are to receive them; but suppose these unhappy differences 'twixt his Majesty and the Parliament doe continue, it must be granted by the Neutralist (unlesse he be a Sceptique in his opinion, as well as in his resolution) that this war is just on one side, and that himselfe is therein involved. What peace then is this? Unnaturall peace, whilst the body of the Kingdome is in danger, so to provide for one member, as totally to neglect the rest, <hi>Menenius Agrippa</hi> will tell them, that whilst the mem<g ref="char:EOLhyphen"/>bers of the body conspired to famish the belly, they themselves suffered. Uncharitable peace, to looke on, and not to afford your helping hand to stay the downfall of a tottering King<g ref="char:EOLhyphen"/>dome, which may be the sooner ruined by your security; how can the Pilate thinke to save his Cabbin, when the Ship is sinking; companions in peace, ought to be so in war, unlesse there be some just exemption, so much of the writ of Shipmoney being good Law, <hi>Quod omnes tangit, per omnes d<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t supportari:</hi> (but by the consent of King, and both Houses of Parliament,) a flattering savant, as if so soone as King and both Houses agreed to command one act, there would not be an immediate cessation of all hostility. But it seemes Armes may still be taken up to resist Forces sent thither, if not sent from his Majesty and both Houses. Unequall peace. The Parliament was sending downe forces, to put their Ordinance of <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> in execution, and to settle the peace of that Connty, His Majesty hath sent for forces from thence to his winter garrison to oppose his Parliament, yet by this Article the one must be hindered from entring, but not the other from issuing forth.</p>
+            </div>
+            <div n="2" type="part">
+               <epigraph>
+                  <q>
+                     <p>ARTICLE 2.</p>
+                     <p>
+                        <hi>That all but</hi> 200. <hi>of either side be disbanded to morrow, being Saturday, and upon Munday all the rest upon both sides, both horse and foote.</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <head>REASON 2.</head>
+               <p>What needs so much haste? Are any of the family of the <hi>Hastings</hi> amongst you? that ma<g ref="char:EOLhyphen"/>ny thousands of the Parliaments forces must needs be as soone disbanded, as so many hun<g ref="char:EOLhyphen"/>dreds on the other side? Ought you not to have expected a moderate dissolution from the same Sun that did exhale you, rather then to have fallen away by sudden spouts, as the raine useth to doe in the Indies? which if you had expected, certainly you had not gone up the hill, and so soone come downe again, but had requited the great charges of your uniting, either by settling the <hi>Militia,</hi> suppressing the Commission of Array long since declared to be illegall by the highest Court, raising of Money, Plate, and Horses upon the Propositions, relieving of <hi>Manchester,</hi> which hath long since cryed like those of <hi>Macedonia</hi> to <hi>Paul,</hi> Come over and help us, or at least would have stayed till you had given, and received some intelligence, to, and from the Parliament, or Sir <hi>William Brereton</hi> your worthy Patriot, of whom let it suf<g ref="char:EOLhyphen"/>fice to say, that though he hath not had the successe of <hi>Fabius,</hi> by delay to doe his Countrey service, yet whoever well considers the manner of raising and maintaining his Troope, be<g ref="char:EOLhyphen"/>ing much by his owne charge and industry, and the difficulty of procuring monies, ammu<g ref="char:EOLhyphen"/>nition, Officers, and Commissions, by one man alone, for he hath had none in Parliament to assist him therein, will conclude, his delay was not through his owne default: Can this agreement then made without him, oblige him, or render his Commission invallid? that were to exercise a power paramount the Parliament, in whose name he comes.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="5" facs="tcp:111640:3"/>
+               <epigraph>
+                  <q>
+                     <p>ARTICLE 3.</p>
+                     <p>
+                        <hi>That all prisoners on both sides be released, &amp;c.</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <head>REASON 3.</head>
+               <p>
+                  <hi>Quo warranto?</hi> For both the Deputy Lieutenants, and Commissioners of Array impri<g ref="char:EOLhyphen"/>son none, but by vertue, or colour of some authority derived unto them from King or Par<g ref="char:EOLhyphen"/>liament, and then can they not (having no such power in their Commissions) discharge with<g ref="char:EOLhyphen"/>out Law those that are <hi>in custodia legis.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <epigraph>
+                  <q>
+                     <p>ARTICLE 4.</p>
+                     <p>
+                        <hi>That the fortifications at Chester, Namptwich, Northwich, Stopford, Knutsford, or any other Towne, in Chestire, lately made by either party, be speedily demolished.</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <head>REASON 4.</head>
+               <p>This is still to advance the pretended unlimited power of the Commissioners of Array, and to suppresse the advantages, the Parliament, and well affected of the Countrey might speedily have received, by the helpe of the Army, there lately on foot, and by their Garri<g ref="char:EOLhyphen"/>sons, which were so considerable, that upon the sudden approach of Commanders, and Am<g ref="char:EOLhyphen"/>munition they might easily have setled that County, for the Parliament, have sent auxilia<g ref="char:EOLhyphen"/>ries into Lancashire, which had beene but <hi>Lex talionis,</hi> couped up the Eagle in his nest, and prevented his further resolutions.</p>
+            </div>
+            <div n="5" type="part">
+               <epigraph>
+                  <q>
+                     <p>ARTICLE 5.</p>
+                     <p>
+                        <hi>That goods, and Armes taken on both sides, be in</hi> specie <hi>forthwith restored, and for any other that are taken out of the County, it is promised on both parts, that since the benefit of this pacificati<g ref="char:EOLhyphen"/>on redounds to the County, that they will use their utmost endevours for a joynt contribution of the County, towards the satisfaction of the owners.</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <head>REASON 5.</head>
+               <p>This Article would tacitly raise an imputation upon the Parliaments party in that Coun<g ref="char:EOLhyphen"/>ty, at if they had pillaged and spoyled any there of their goods; When as <hi>Nulli nec equos, nulli rapuêre juvencas.</hi> But can the Commissioners of Array and their party boast herein? No, if they do, the disarming the Trained Bands, the late barbarous and inhumane plundering of Torperley, Utkington, Stapleford, &amp; other adjacent places, even during, &amp; since this Treaty by Colonell <hi>Hastings,</hi> the Earle <hi>Rivers,</hi> and especially the Lord <hi>Cholmleys</hi> Troopes, and the perfidious spoyling of Namptwich, heretofore by the Lord <hi>Grandison</hi> and his Troopes will give them the lie; though what was gotten there by breach of Covenant, proved to that Lord, but <hi>Equus Sejanus,</hi> or as the gold of Tholosse, when he lost that and more at Winchester; but because these goods are by that and other meanes, gone through so many hands, and cannot be restored in <hi>specie,</hi> an endevour must be used, that the County may contribute towards the owners satisfaction, but what will follow upon that improbable contribution? The Com<g ref="char:EOLhyphen"/>missioners of Array, being the Promoters of this Agreement, thinke thereby to endeare themselves with all those who shall reape the benefit of that contribution, and by that meanes strengthen their Party and the County, against the Kings next comming towards Chester, whither it is conceived His Majesty hath <hi>animum revertendi,</hi> if he remove from Oxford, and then if desolation come, as in other Counties where hath bin Neutrallity it hath done, thank your selves. But upon what ground will this contribution be made? because this pacificati<g ref="char:EOLhyphen"/>on is for the benefit of the County? I wish it may prove so, but 'tis not so, because its so said; if my neighbours House burne, mine owne will the sooner kindle by my security; the best way in that case to prevent the ruine of thine owne, is to be active in quenching thy neighbours fire; and he is a sluggard indeed, that will choose rather to lye still upon his hard bed, then rise to have it made the softer; however, he is much mistaken that thinkes he may
+<pb n="6" facs="tcp:111640:4"/>like an Anchorite in his Cell abstract himselfe, from the publike condition of the places and Kingdomes wherin he lives. A man may not by the Lawes of man, as well as of God, do what he will with himselfe: He that voluntarily burnes his owne house, or cuts off his owne arme may be punished for it, because the Common-wealth hath an interest in the persons and ha<g ref="char:EOLhyphen"/>bitations of men.</p>
+            </div>
+            <div n="6" type="part">
+               <epigraph>
+                  <q>
+                     <p>ARTICLE 6.</p>
+                     <p>
+                        <hi>That the Lords and Gentlemen Commissioners of Array, before the</hi> 8 <hi>day of Ianuary next, pro<g ref="char:EOLhyphen"/>cure from His Majesty a Letter, therby declaring, that in regard Peace is made in that County, he would send no Forces into it, and if any other person shall contrary to the Declaration bring Forces into the County (passage for forces without doing any Hostile act onely excepted) the said Lords and Gentlemen, will joyne to resist them: and if any Forces, without the consent of the King, and both Houses of Parliament shall come into this County, (a Passage for forces without any Hostile act onely excepted) The said Gentlemen Deputy Licutenants will joyne to resist them, and use their ut<g ref="char:EOLhyphen"/>most endevours therein.</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <head>REASON 6.</head>
+               <p>This is all the profit the County seemes to receive by these Articles, and this is <hi>in fieri</hi> too, not <hi>in facto,</hi> so that for an uncertaine contingent benefit, perhaps never to be obtained, the Parliaments forces must be presently disbanded; And who can be induced easily to be<g ref="char:EOLhyphen"/>leeve that His Majesty will issue forth such a Declaration. for the good of the Parliament Party, especially if himselfe shall be minded to returne into Cheshire, when the Parliament themselves have so often received denials from His Majesty to their humble Petitions, and offers, to disband, so that His Majesty would he pleased to returne to them with His Royall not Martiall Guard. And if the King deny so to declare, then doth the consideration which moved the Parliaments Party here to disband, totally faile. But strange presumption! thus peremptorily to make stipulations to procure His Majestie then unconsulted withall, to de<g ref="char:EOLhyphen"/>clare such an act <hi>in terminis,</hi> and before such a time: the Law and Parliament assume but a dire<g ref="char:EOLhyphen"/>ctive, no coactive power over Soveraignty, and yet hitherto they are not able to reduce it to act; and yet it seemes these presume of that power, that whether it be convenient for His Majesty or no, or whether His Majesty shall so please to apprehend it, yet it must be done, or else this Article and the rest, are but meer delusions, which is the rather to be supposed; but unlesse the King please so to declare. His Majestie may bring in or send thither what Forces he please, without consent of both Houses, but so cannot the Parliament by this Article, nor any of their adherents in their greatest extremity, no liberty of declaring being left to them. If Israel then should flie before the Egyptians, and Cheshire appeare before them as a red Sea, and being bound up by this sophistry, could not without danger entertaine them, other<g ref="char:EOLhyphen"/>wise then like vagabonds to give them a passe; what inhumanity were this! but this liberty of passage must needs be inferred, lest the Antiparliamentary forces in the North might otherwise be stopt from going this way towards his Majestie, for forces without doing any hostile Act, may passe, though by the first Article, all forces brought into the Coun<g ref="char:EOLhyphen"/>ty, were to be resisted, what is meant then by an Hostile act, is to bring Delinquents to justice an hostile Act if that have more violence in it then usuall, Delinquents may thanke them<g ref="char:EOLhyphen"/>selves, whose slight argues their guilt, and have of late beene of that sleight and power, that they were not otherwise attachable, and then to deny the Parliament power to put their Orders in execution, is to abridge them of that which the meanest Court inioyes, by which meanes, in stead of being venerable, it would become of small esteeme.</p>
+            </div>
+            <div n="7" type="part">
+               <pb n="7" facs="tcp:111640:4"/>
+               <epigraph>
+                  <q>
+                     <p>ARTICLE 7.</p>
+                     <p>
+                        <hi>In regard that by the blessing of God, there is like to be peace in this County, if this agreement be observed; It is agreed that the Commissioners of Array, shall not further put the Commission of Ar<g ref="char:EOLhyphen"/>ray in execution, nor the Gentlemen nominated Deputy Lieutenants, the Ordinance for the Militia.</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <head>REASON 7.</head>
+               <p>Such a Peace as may be crowned with the blessing of God, is not only hoped, but prayed for, but that will not be by monopolizing Peace, or by giving it an untimely birth: a con<g ref="char:EOLhyphen"/>clusion by such mediums is both illegall and unnaturall: but if a lasting Peace were inten<g ref="char:EOLhyphen"/>ded to be observed, what meant those butcherly proceedings of the Commissioners agents, (though by their own, especially the Lord <hi>Cholmleyes</hi> privity) at <hi>Torperley</hi> &amp; the other places before mentioned, even during, and after the Treaty (he suffering most, that was most religi<g ref="char:EOLhyphen"/>ous) and when restitution was demanded of some of the Commissioners according to the Articles, the remedy proved worse than the disease, before, they lost their goods, but when they complained, some scarce escaped with their lives, by the danger of their Battle-axes; so that now <hi>(salva fide)</hi> the parties themselves to this agrement are at liberty, and after this Pa<g ref="char:EOLhyphen"/>renthesis of time may recontinue their former Resolutions. For the rest of the Article, the words run paralell, but not the matter: the Ordinance for the <hi>Militia</hi> being supported, not onely by the judgement and command of that Court from which there is no appeale, but also by the supreame law, <hi>viz. Salus populi,</hi> and the Commission of Array in the meane time is con<g ref="char:EOLhyphen"/>demned by the one, as destructive to the other.</p>
+            </div>
+            <div n="8" type="part">
+               <epigraph>
+                  <q>
+                     <p>ARTICLE 8.</p>
+                     <p>
+                        <hi>And lastly, All the said parties doe agree and promise cach to other in the word of a Gentleman, and as they desire to prosper, that as well they themselves, as also their friends, tenants, and ser<g ref="char:EOLhyphen"/>vants, and all others in whom they have any interest, shall as much as in them lie performe this a<g ref="char:EOLhyphen"/>greement; and it is further desired, that all the said parties joyne in a Petition to his Maiestie, and both Houses of Parliament, for putting an end to the great distractions and miseries fallen upon the Kingdome, by making a speedy Peace. And it is agreed that Sir Sir</hi> George Booth, <hi>and all others in the County, who have appeared, either as Commissioners of Array, or as Deputy Leintenants, by reason of the Ordinance of Parliament, shall with all convenient speede subscribe this Agree<g ref="char:EOLhyphen"/>ment.</hi>
+                     </p>
+                     <list>
+                        <item>
+                           <hi>Robert Kilmorre.</hi>
+                        </item>
+                        <item>
+                           <hi>Orlando Bridgeman.</hi>
+                        </item>
+                        <item>
+                           <hi>William Marbury.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Mainwaring.</hi>
+                        </item>
+                     </list>
+                  </q>
+               </epigraph>
+               <head>REASON 8.</head>
+               <p>The Gentlemen that did subscribe, are not so much blame-worthy, being men of tempe<g ref="char:EOLhyphen"/>rate spirits, and questionlesse true lovers of their County, as those that did by importunate solicitations perswade them to it, <hi>Sic notus Ʋlisses?</hi> did their former advice for Neutralitie so advantage the County (the Kings forces being by that means invited thither) that it must prevaile for the same purpose again? I wish that by this meanes the damage to the Countrey may not be doubled, as their advice hath beene. But admitting the Commissioners for the Array have for their parts hitherto observed this agreement, must not then the subscribers for the <hi>Militia</hi> observe it likewise, to keep both their honour and faith inviolable? for Sir <hi>George Booth</hi> and the rest refuse it. Their generall Protestation to God, which I am sure they have taken, being inconsistent with the private pacts of men, renders these of no force, but looseth
+<pb n="8" facs="tcp:111640:5"/>no power it self, nor lies it in the power of any created being, to performe a voide agreement, as this must needs be, being repugnant to that publique vow to God, and to the Parliamen<g ref="char:EOLhyphen"/>tary power expressed as well therein, as in all their aforementioned resolutions, And in such a Parliament certainely, called and continued according to Law, in case of the Kings voluntary desertion, and of the Kingdomes safety, doth the supreame power reside, else policy should come short of nature in not fencing against that which would prove both dangerous and de<g ref="char:EOLhyphen"/>structive to it selfe; nor is it breach of Covenant, or losse of Honour to retract that which is, ei<g ref="char:EOLhyphen"/>ther before the doing of it, contrary to the command of that great Assembly, or being done, is by them declared illegall: hath not the Lord <hi>Fairefaxe</hi> more eternized his name by his wisedome and valour, since his retracting the like subscription then ever before? <hi>Quod fecit consultò, consultiùs revocavit.</hi> But all must be salved by ioyning in a Petition for Peace. It is great pitty faire weather should ever doe harme, or that Peace should be unseasonable, but take heede lest under the notion of Peace, importing a Neutrality, or by drawing Ar<g ref="char:EOLhyphen"/>ticles against the expresse Orders of Parliament, you draw you selves, and the rest of the Countrey who have beene for King and Parliament into a misterious conspiracie against both: but if you will either make or Petition for Peace; let it be for God and your Lawes, and for King and Parliament, whom both have united, and since necessity and charity call for it, it is well hoped that the Subscribers, and many of the Commissioners in that County will ioyne with the Parliaments party (as brethren, though fallen out use to doe) a<g ref="char:EOLhyphen"/>gainst the common Adversary, which is now the army of Papists in divers parts of the King<g ref="char:EOLhyphen"/>dome, that in the North, having in the head of it the Catholike Standard: such a Peace is blessed, and <hi>Beati pacifici,</hi> the Motto of such Peace-makers.</p>
+            </div>
+            <trailer>EINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for <hi>Henry Overton,</hi> and are to be sold at his Shop in Popes-Head-Alley, <hi>December,</hi> 6. 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
